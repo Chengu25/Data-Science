@@ -1,0 +1,14 @@
+P1
+Konteks Industri/Masyarakat
+- Dataset kepribadian ini berasal dari konteks psikologi dan pengembangan sumber daya manusia (SDM), yang banyak digunakan dalam dunia rekrutmen, pendidikan, dan konseling. Data kepribadian membantu organisasi atau institusi memahami karakter individu untuk penempatan kerja, pengembangan potensi, serta pengambilan keputusan berbasis data.
+
+Permasalahan Utama
+Permasalahan utama yang dihadapi adalah bagaimana mengklasifikasikan tipe kepribadian seseorang secara akurat berdasarkan atribut atau skor psikologis yang dimiliki. Tanpa analisis data, penilaian kepribadian cenderung subjektif dan kurang konsisten.
+
+Tujuan dari analisis ini adalah:
+Menganalisis pola hubungan antara atribut-atribut kepribadian dalam dataset.
+Membangun model prediktif yang mampu mengklasifikasikan tipe kepribadian individu secara otomatis.
+Memberikan dasar analisis yang dapat digunakan untuk pengambilan keputusan di bidang SDM atau pendidikan.
+
+Jenis Masalah
+Jenis masalah pada dataset ini adalah klasifikasi, karena variabel target berupa kategori/label tipe kepribadian, bukan nilai numerik kontinu.
